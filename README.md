@@ -1,0 +1,1 @@
+This repository demonstrates a common programming error: stack overflow in recursive functions. The `bug.py` file contains a recursive function with an improperly handled base case, leading to a stack overflow when called with sufficiently large input.  The solution, provided in `bugSolution.py`, addresses the issue using dynamic programming to avoid excessive recursion.
